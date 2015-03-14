@@ -1,0 +1,2 @@
+# BladeAndSoul
+Simplified Translation Repo
